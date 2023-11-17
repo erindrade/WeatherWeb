@@ -2,6 +2,10 @@
 
 WeatherWeb is a user-friendly web application that provides real-time weather information. The app automatically detects your location or allows you to manually search for the weather conditions in different places. It utilizes the OpenWeather API to fetch accurate and up-to-date weather data.
 
+## Try it Live!
+
+Explore the WeatherWeb [here](https://climesky.netlify.app).
+
 ## Features
 
 - **Automatic Location Detection:** The app prompts you to allow location access for automatic weather updates based on your current location.
